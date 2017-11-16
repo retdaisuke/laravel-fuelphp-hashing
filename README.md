@@ -8,7 +8,7 @@ Add the package to your composer.json and run composer update.
 
 ```json
 "require": {
-    "retdaisuke/laravel-fuelphp-hashing": "0.0.1"
+    "retdaisuke/laravel-fuelphp-hashing": "^1.0"
 },
 ```
 
